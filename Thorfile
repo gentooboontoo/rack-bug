@@ -5,8 +5,8 @@ module GemHelpers
     require "rack/bug"
 
     Gem::Specification.new do |s|
-      s.name      = "rack-bug"
-      s.version   = Rack::Bug::VERSION
+      s.name      = "gentooboontoo-rack-bug"
+      s.version   = "#{Rack::Bug::VERSION}.edge"
       s.author    = "Bryan Helmkamp"
       s.email     = "bryan@brynary.com"
       s.homepage  = "http://github.com/brynary/rack-bug"

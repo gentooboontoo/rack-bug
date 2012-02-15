@@ -1,6 +1,8 @@
 Rack::Bug
 =========
 
+Forked mainly to host an up to date versioned gem at Rubygems
+
 * Repository: [http://github.com/brynary/rack-bug](http://github.com/brynary/rack-bug)
 
 Description
